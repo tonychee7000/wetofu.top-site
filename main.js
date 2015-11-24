@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("div.mask").fadeOut();
+    $("div.mask").fadeOut(2000);
     $("div.button#kaka").click(function(){
         window.location.href="https://kaka.wetofu.top";
     });
