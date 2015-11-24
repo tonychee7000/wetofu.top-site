@@ -1,6 +1,6 @@
 function onClick(addr){
     $("div.mask").css("background-color", "white");
-    $("div.mask").fadeIn(2000).delay(1000);
+    $("div.mask").fadeIn(2000).delay(3000);
     window.location.href=addr;
 }
 
