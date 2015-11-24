@@ -8,6 +8,7 @@ html, body {
 
 html {
     background-image: url('1920x1080.jpg');
+    background-size:cover;
 }
 
 body {
