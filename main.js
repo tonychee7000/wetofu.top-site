@@ -1,5 +1,7 @@
 function onClick(addr){
+    $("div.mask").css("display", "none");
     $("div.mask").css("background-color", "white");
+    $("div.mask").css("display", "none");
     $("div.mask").fadeIn(2000, function(){
         window.location.href=addr;
     });
