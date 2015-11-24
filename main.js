@@ -8,7 +8,7 @@ function onClick(addr){
 }
 
 $(document).ready(function(){
-    $("div.mask").delay(2000).fadeOut(2000);
+    $("div.mask").delay(1000).fadeOut(2000);
     $("div.button#kaka").click(function(){
         onClick("https://kaka.wetofu.top");
     });
