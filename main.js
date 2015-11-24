@@ -1,9 +1,15 @@
+function onClick(addr){
+    $("div.mask").css("background-color", "white");
+    $("div.mask").fadeIn(2000).delay(1000);
+    window.location.href=addr;
+}
+
 $(document).ready(function(){
-    $("div.mask").fadeOut(2000);
+    $("div.mask").delay(2000).fadeOut(2000);
     $("div.button#kaka").click(function(){
-        window.location.href="https://kaka.wetofu.top";
+        onClick("https://kaka.wetofu.top");
     });
     $("div.button#tonychyi").click(function(){
-        window.location.href="https://tonychyi.wetofu.top";
+        onClick("https://tonychyi.wetofu.top");
     });
 });
