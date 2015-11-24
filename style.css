@@ -36,6 +36,7 @@ div.button {
     border-radius: 10px;
     transition: box-shadow 2s;
     transition: opacity 1s;
+    cursor: pointer;
 }
 
 div.button:hover {
