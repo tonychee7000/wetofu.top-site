@@ -1,0 +1,43 @@
+*{
+    font-family: "文泉驿微米黑","思源黑体","微软雅黑","黑体","宋体",Arial;
+}
+
+html, body {
+    display: block;
+}
+
+html {
+    background-image: url('1920x1080.jpg');
+}
+
+body {
+    margin-top: 15%;
+    text-align: center;
+}
+
+h1, h2 {
+    color: white;
+    margin: auto auto;
+    margin-bottom: 5px;
+    text-shadow: 0 0 10px black;
+}
+
+div.button {
+    background-color: white;
+    opacity: 0.8;
+    display: inline-block;
+    box-shadow: 0 0 5px;
+    border: 2px solid gray;
+    height: 128px;
+    width: 128px;
+    padding: 5px;
+    margin: 50px;
+    border-radius: 10px;
+    transition: box-shadow 2s;
+    transition: opacity 1s;
+}
+
+div.button:hover {
+    box-shadow: 0 0 20px;
+    opacity: 1;
+}
