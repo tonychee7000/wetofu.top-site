@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $("div.mask").fadeOut();
     $("div.button#kaka").click(function(){
         window.location.href="https://kaka.wetofu.top";
     });
