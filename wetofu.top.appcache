@@ -5,6 +5,8 @@ CACHE MANIFEST
 /jquery-2.1.4.min.js
 /jquery-2.1.4.min.map
 /favicon.ico
+
+NETWORK:
 /index.html
 /apple.png
 /linux.png
