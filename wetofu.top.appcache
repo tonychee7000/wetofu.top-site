@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#date 20160517
+#date 20160517-ver2
 CACHE:
 /style.css
 /1920x1080.jpg
@@ -8,6 +8,28 @@ CACHE:
 /jquery-2.1.4.min.map
 /favicon.ico
 offline.html
+/android-chrome-36x36.png
+/android-chrome-48x48.png
+/android-chrome-72x72.png
+/android-chrome-96x96.png
+/apple-touch-icon-114x114.png
+/apple-touch-icon-120x120.png
+/apple-touch-icon-57x57.png
+/apple-touch-icon-60x60.png
+/apple-touch-icon-72x72.png
+/apple-touch-icon-76x76.png
+/apple-touch-icon.png
+/apple-touch-icon-precomposed.png
+/browserconfig.xml
+/favicon-16x16.png
+/favicon-32x32.png
+/favicon-96x96.png
+/favicon.ico
+/manifest.json
+/mstile-150x150.png
+/mstile-310x150.png
+/mstile-70x70.png
+/safari-pinned-tab.svg
 
 NETWORK:
 *
