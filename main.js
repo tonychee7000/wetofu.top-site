@@ -15,4 +15,7 @@ $(document).ready(function(){
     $("div.button#tonychyi").click(function(){
         onClick("https://tonychyi.wetofu.top");
     });
+    $("div.button#midymidymap").click(function(){
+        onClick("/midymidymc");
+    });
 });
