@@ -60,4 +60,5 @@ img.icon {
 p {
     margin-top: 5px;
     margin-bottom: 0;
+    white-space: nowrap
 }
